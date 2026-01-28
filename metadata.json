@@ -1,0 +1,7 @@
+{
+  "name": "DocuEdit AI",
+  "description": "A sophisticated document editor that uses AI-powered OCR and Inpainting to seamlessly modify text on physical documents while preserving original textures and ink styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
